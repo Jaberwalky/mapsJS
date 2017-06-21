@@ -1,0 +1,8 @@
+#main-map {
+  width: 700px;
+  height: 500px;
+  border: 2px solid red;
+  margin-right: auto;
+  margin-left: auto; 
+  margin-top: 50px
+}
